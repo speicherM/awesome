@@ -27,7 +27,8 @@ Table of Contents
 
 | Paper | Representation| Publisher | Project/Code |
 | :----------------------------------------------------------: | :-------: | :-------: | :-----------------------------------------------------: |
-| [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction](https://shivamduggal4.github.io/tars-3D/static/paper/main.pdf) | implicit rendering (SRN) | CVPR 2022 | [Code](https://shivamduggal4.github.io/tars-3D/) |
+| [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction](https://shivamduggal4.github.io/tars-3D/static/paper/main.pdf) | implicit rendering (SRN) | CVPR 2022 | [Code](https://shivamduggal4.github.io/tars-3D/) |/|
+
 ##3D-aware
 | Paper | Representation| Publisher | Project/Code |
 | :----------------------------------------------------------: | :-------: | :-------: | :-----------------------------------------------------: |
