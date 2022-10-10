@@ -17,7 +17,7 @@ Table of Contents
      * [Multi-view](#multi-view-2)
      * [Point-cloud](#point-cloud)
      * [RGB-D](#rgb-d)
-  * [3D-aware] (#3D-aware)
+  * [3D-aware](#3D-aware)
   * [Survey](#survey)
 
 ## Object-level
